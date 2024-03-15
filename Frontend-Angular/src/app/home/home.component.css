@@ -1,0 +1,17 @@
+.container {
+  width:100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color:antiquewhite;
+  padding: 20px;
+}
+
+h2{
+  color:black;
+}
